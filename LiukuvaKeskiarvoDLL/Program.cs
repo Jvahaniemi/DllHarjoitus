@@ -13,6 +13,7 @@ namespace LiukuvaKeskiarvoDLL
     {
         static void Main(string[] args)
         {
+            // muokattu versio
             Random gen = new Random();
             int time = 0;
             // 1.

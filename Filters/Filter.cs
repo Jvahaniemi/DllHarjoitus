@@ -8,6 +8,7 @@ namespace Filters
 {
     public abstract class Filter
     {
+        //muokattu versio
         protected Queue<double> buffer = new Queue<double>();
         private int length;
 
